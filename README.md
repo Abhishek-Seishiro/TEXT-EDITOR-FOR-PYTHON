@@ -26,6 +26,36 @@ I made this project as a beginner to practice working with file handling in Pyth
 
 python pjt3.py
 
+#Output:
+
+ TEXT EDITOR 
+1. Write Text
+2. View Text
+3. Save to File
+4. Open File
+5. Clear Text
+6. Count Words
+7. Exit
+Enter your choice: 1
+
+Enter your text.
+Type 'DONE' on a new line to finish.
+
+HI I AM ABHISHEK PANDEY
+DONE
+Text saved in editor.
+
+ TEXT EDITOR 
+1. Write Text
+2. View Text
+3. Save to File
+4. Open File
+5. Clear Text
+6. Count Words
+7. Exit
+Enter your choice: 7
+Thank you for using the Simple Text Editor
+ 
 ## Things I would like to improve later:
 
 - Fix a bug where choosing View Text or Count Words before writing anything can cause an error
