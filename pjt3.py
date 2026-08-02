@@ -73,7 +73,7 @@ while True:
             print("Total words:", len(words))
 
     elif choice == "7":
-        print("Thank you for using the APP# Simple Text Editor")
+        print("Thank you for using the Simple Text Editor")
 
         break
 
