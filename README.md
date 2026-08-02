@@ -4,7 +4,7 @@ This is a basic text editor I built using Python that runs in the terminal. It l
 
 I made this project as a beginner to practice working with file handling in Python (reading and writing files) along with loops and conditionals.
 
-## What it does
+## What it does?
 
 - Write text into the editor (type DONE on a new line to finish)
 - View the text currently in the editor
@@ -14,7 +14,7 @@ I made this project as a beginner to practice working with file handling in Pyth
 - Count the total number of words in the current text
 - Exit the program
 
-## What I learned / used
+## What I learned / used:
 
 - Python basics (loops, if-elif-else, input/output)
 - File handling - opening, reading, and writing files using open()
@@ -22,11 +22,11 @@ I made this project as a beginner to practice working with file handling in Pyth
 - Splitting text into words using .split()
 - Using a while True loop to keep a menu running until the user exits
 
-## How to run it
+## How to run it:
 
 python pjt3.py
 
-## Things I want to improve later
+## Things I would like to improve later:
 
 - Fix a bug where choosing View Text or Count Words before writing anything can cause an error
 - Add an option to append to a file instead of always overwriting it
